@@ -10,9 +10,9 @@
   
 🧑 Tenho 17 anos
 <br>
-🛠 Trabalho com front-end
+🛠 Trabalho com Backend
 <br>
-📚 Estou estudando C#
+📚 Estou estudando Typescript
 <br>
 🚗 Sou um amante de carros 
 <br> 
@@ -42,7 +42,7 @@
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,cs,python,php,scss,visualstudio,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=typescript,react,javascript,nodejs,cs,python,visualstudio,vscode,github,git" />
 </div>
 
   ##
