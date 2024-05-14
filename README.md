@@ -5,24 +5,19 @@
 </h1>
 
 <div align="center">
-
-## ✨ Resumo ✨
   
-🧑 Tenho 17 anos
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Medium%20Skin%20Tone.png" alt="Boy Medium Skin Tone" width="25" height="25" /> Tenho 17 anos
 <br>
-🛠 Trabalho com Backend
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" />Trabalho com Backend
 <br>
-📚 Estou estudando Typescript
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Medium%20Skin%20Tone.png" alt="Student Medium Skin Tone" width="25" height="25" /> Estou estudando Typescript
 <br>
-🚗 Sou um amante de carros 
-<br> 
-![Porsche](https://aleen42.github.io/badges/src/porsche.svg) ![Bmw](https://aleen42.github.io/badges/src/bmw.svg) ![Mercedes](https://aleen42.github.io/badges/src/mercedes_benz.svg) ![Ferrari](https://aleen42.github.io/badges/src/ferrari.svg)
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> Sou um amante de jogos
 </div>
 
 <div align="center">
 
-  <h2 align="center">⚡ Estatisticas ⚡</h2>
+  <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Estatisticas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /></h2>
 
   <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=samuxka&show_icons=true&count_private=true&hide_border=true&title_color=00ccff&icon_color=1c4966&text_color=c9d1d9&bg_color=0d1117" alt="Samuxka github stats" /> 
@@ -39,7 +34,7 @@
   
 </div>
 
-<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<h2 align="center" ><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Linguagens-Frameworks-Ferramentas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /></h2>
 <br>
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=typescript,react,javascript,nodejs,cs,python,visualstudio,vscode,github,git" />
