@@ -8,9 +8,9 @@
   
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Medium%20Skin%20Tone.png" alt="Boy Medium Skin Tone" width="25" height="25" /> Tenho 17 anos
 <br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" />Trabalho com Backend
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Trabalho com Backend
 <br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Medium%20Skin%20Tone.png" alt="Student Medium Skin Tone" width="25" height="25" /> Estou estudando Typescript
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Medium%20Skin%20Tone.png" alt="Student Medium Skin Tone" width="25" height="25" /> Estou estudando Node.JS
 <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> Sou um amante de jogos
 </div>
@@ -37,7 +37,7 @@
 <h2 align="center" ><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Linguagens-Frameworks-Ferramentas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /></h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=typescript,react,javascript,nodejs,cs,python,visualstudio,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=javascript,nodejs,python,vscode,github,git" />
 </div>
 
   ##
