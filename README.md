@@ -26,7 +26,7 @@
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samuxka&bg_color=0d1117&color=225566&line=1c4966&point=00ccff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=samuxka&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00ccff&fire=00ccff&currStreakLabel=00ccff" alt="Samuxka" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=samuxka&theme=transparent)](https://git.io/streak-stats)
 
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuxka&theme=algolia" alt="GG"/></a>
